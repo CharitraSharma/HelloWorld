@@ -1,1 +1,3 @@
-cls
+node {
+   echo 'Hello World'
+}
